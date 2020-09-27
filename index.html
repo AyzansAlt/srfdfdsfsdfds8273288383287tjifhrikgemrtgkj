@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classgram</title>
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.21.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.21.1/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyDmvRQ3LtB1mu0O1Lgw-W6ro5_I5x72pRs",
+    authDomain: "classgram-aanil.firebaseapp.com",
+    databaseURL: "https://classgram-aanil.firebaseio.com",
+    projectId: "classgram-aanil",
+    storageBucket: "classgram-aanil.appspot.com",
+    messagingSenderId: "525599158277",
+    appId: "1:525599158277:web:a25a0ae049d8072f572c6c",
+    measurementId: "G-QPNH9MSLQD"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+</head>
+<body>
+<div id="content-mobile">
+    <div id="mobile-container">
+    <h3>Please use a device with a bigger screen</h3>
+    </div>
+</div>
+
+
+    <div id="content-desktop">
+ <div id="nav-container">
+     <div id="status-bar">
+             
+        
+
+     </div>
+     <div id="nav-bar">
+<img id="CL" src="assets/Classgram.svg" alt="Classgram">
+
+     </div>
+ </div>
+
+ <div id="Post">
+     <a href="https://www.wcsch.com/">
+     <img src="https://www.wcsch.com/images/logo.png" id="wcsch"></a>
+     <h3 id="wcsch-text">7K P111</h3>
+     <br><hr style="height:10px; visibility:hidden;">
+   <img src="assets/PostImg-1.png" style="width:60%;">
+   <br><hr style="height:10px; visibility:hidden;">
+   <h4 id="wcsch-text">7K P111</h4>
+   <br>
+     <img src="assets/Heart-Outline.svg" id="like" onclick="updateLikes();">
+     
+    <p id="like-comment">Likes Message</p>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    </div>
+
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+      <script src="script/main.js"></script>
+</div>
+</body>
+</html>

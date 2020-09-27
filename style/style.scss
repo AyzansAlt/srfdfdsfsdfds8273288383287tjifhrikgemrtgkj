@@ -1,0 +1,100 @@
+* {
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+
+  }
+
+  #content-desktop {
+    display: block;
+  }
+#content-mobile {
+  display: none;
+  min-width: 100%;
+  min-height: 100%;
+  background-color: #252525;
+color: #ffffff;
+
+}
+
+@media screen and (max-width: 768px) {
+html{
+  position: absolute;
+  background-color: #252525;
+  text-align: center;
+vertical-align: middle;
+position: fixed;
+top: 50%;
+left: 50%;
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+font-size: 5vw;
+}
+#content-desktop {display: none;}
+#content-mobile {display: block;
+  
+}
+
+}
+
+
+  
+  #status-bar {
+    background-color: #383947;
+    height: 96px;
+    width: 100%;
+    z-index: -1;
+  }
+  
+  #nav-bar {
+    margin: 0 auto;
+      left: 0;
+      top: 0;
+    position: absolute;
+    background-color: #333441;
+    width: 200px;
+    height: 1000vh;
+    z-index: 1 !important;
+  }
+#CL{
+    position: absolute;
+    top: 4.25vh;
+    left: 7%;
+}
+  
+  html {
+    overflow: hidden;
+  }
+  #Post{
+    position: fixed;
+    top: 57.5%;
+    left: 62.5%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+  }
+
+  #like{
+    width: 20px;
+    height: 20px;
+  }
+  #like-comment{
+    font-size: 15px;
+  }
+  #wcsch-text{
+    font-weight: 300;
+  }
+  #wcsch{
+    width: 40px;
+  }
+
+  #wcsch, #wcsch-text{
+    display:inline;
+    vertical-align: middle;
+  }

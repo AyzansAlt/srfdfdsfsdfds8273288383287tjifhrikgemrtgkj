@@ -1,0 +1,30 @@
+<svg width="271" height="241" viewBox="0 0 271 241" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="81" y="10" width="134" height="23" fill="white"/>
+<rect x="64" y="18" width="127" height="20" fill="white"/>
+<rect x="46" y="27" width="35" height="19" fill="white"/>
+<rect x="39" y="40" width="27" height="16" fill="white"/>
+<rect x="31" y="46" width="25" height="19" fill="white"/>
+<rect x="24" y="59" width="26" height="19" fill="white"/>
+<rect x="24" y="56" width="26" height="19" fill="white"/>
+<rect x="18" y="68" width="25" height="19" fill="white"/>
+<rect x="9" y="83" width="31" height="19" fill="white"/>
+<rect x="7" y="99" width="31" height="19" fill="white"/>
+<rect x="6" y="116" width="31" height="19" fill="white"/>
+<rect x="8" y="130" width="31" height="19" fill="white"/>
+<rect x="12" y="142" width="31" height="19" fill="white"/>
+<rect x="15" y="153" width="31" height="19" fill="white"/>
+<rect x="22" y="167" width="31" height="19" fill="white"/>
+<rect x="28" y="175" width="31" height="19" fill="white"/>
+<rect x="38" y="182" width="31" height="19" fill="white"/>
+<rect x="43" y="188" width="31" height="19" fill="white"/>
+<rect x="50" y="192" width="31" height="19" fill="white"/>
+<rect x="58" y="197" width="31" height="19" fill="white"/>
+<rect x="69" y="202" width="31" height="19" fill="white"/>
+<rect x="79" y="206" width="31" height="19" fill="white"/>
+<rect x="89" y="207" width="126" height="26" fill="white"/>
+<path d="M265.5 112H168.5V139.5H265.5V112Z" fill="white" stroke="black" stroke-width="11" stroke-miterlimit="10"/>
+<path d="M219.7 228.77L119.7 228.5C105.452 228.48 91.3466 225.654 78.1903 220.184C65.034 214.713 53.0841 206.704 43.0229 196.615C22.7033 176.239 11.3102 148.626 11.35 119.85C11.3898 91.074 22.8592 63.4924 43.235 43.1729C63.6108 22.8533 91.224 11.4602 120 11.5H120.3L220.3 11.77V0.270007L120.33 6.63618e-06H120C104.241 -0.0216615 88.6328 3.06077 74.0654 9.07132C59.4981 15.0819 46.2572 23.9028 35.0989 35.0305C12.5636 57.5039 -0.121226 88.009 -0.164986 119.835C-0.208747 151.661 12.3921 182.201 34.8655 204.736C57.3389 227.271 87.844 239.956 119.67 240L219.67 240.27L219.73 220.27L219.7 228.77Z" fill="black"/>
+<path d="M120 40H120.22L220.22 40.27L220.27 20.27V28.77L120.27 28.5H120C95.7327 28.4669 72.4461 38.0752 55.2631 55.2113C38.0801 72.3475 28.4081 95.6077 28.375 119.875C28.3418 144.142 37.9502 167.429 55.0863 184.612C72.2224 201.795 95.4827 211.467 119.75 211.5L219.75 211.77V200.27L119.75 200C98.5326 199.967 78.1975 191.507 63.218 176.48C48.2386 161.454 39.8418 141.092 39.875 119.875C39.9081 98.6577 48.3685 78.3225 63.3948 63.3431C78.4212 48.3636 98.7826 39.9669 120 40V40Z" fill="black"/>
+<path d="M220.62 0.25H209.62V39.75H220.62V0.25Z" fill="black"/>
+<path d="M220 200.25H209V239.75H220V200.25Z" fill="black"/>
+</svg>
